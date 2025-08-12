@@ -3,8 +3,6 @@
 - 🌱 I'm an aspiring data analyst from VietNam
 - 🤝 I tell stories through data visualization using Power BI, collaborating with Python, SQL, and Excel.
 - 🌱 On this GitHub, you'll find a collection of my projects that showcase my skills and enthusiasm for turning data into knowledge.
-- 📫 How to reach me: (phat.tanhuynh2412@gmail.com) (https://www.linkedin.com/in/tan-phat-huynh-19ba6030a/)
-
 <!--
 **HuynhTanPhatT/HuynhTanPhatT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
